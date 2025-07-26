@@ -1,0 +1,3 @@
+id_lancamento,id_empresa,data,descricao,valor,tipo
+1,1,2025-07-25,Compra de mercadoria,1500.0,Despesa
+2,1,2025-07-26,Venda de mercadoria,2500.0,Receita
