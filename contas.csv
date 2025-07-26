@@ -1,0 +1,5 @@
+id,codigo,nome,tipo
+1,1.1.1,Caixa,Ativo
+2,3.1.1,Receita,Receita
+3,2.1.1,Despesa,Despesa
+4,1.1.2,Banco,Ativo
